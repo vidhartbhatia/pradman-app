@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string-array name="rods">
+        <item>Round</item>
+        <item>Square</item>
+        <item>Hexagon</item>
+    </string-array>
+</resources>
